@@ -1,0 +1,15 @@
+{
+  "name": "express-mongoose-boilerplate",
+  "version": "1.0.0",
+  "description": "dockerized express + mongodb boilerplate for a nodejs server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "tymiurge",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.0.11"
+  }
+}
