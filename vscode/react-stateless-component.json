@@ -1,0 +1,17 @@
+{
+	
+	"React Stateless Component": {
+		"prefix": "rsc",
+		"body": [
+			"import React from 'react'",
+			"",
+			"const ${1:filename} = props => (",
+			"	<p>${1:filename}</p>",
+			")",
+			"",
+			"export default ${1:filename}",
+			""
+		],
+		"description": "React stateless component"
+	}
+}
