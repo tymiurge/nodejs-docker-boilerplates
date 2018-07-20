@@ -1,0 +1,22 @@
+{
+
+	"React Component": {
+		"prefix": "rc",
+		"body": [
+			"import React from 'react'",
+			"",
+			"class ${1:filename} extends React.Component {",
+			"",
+    		"	render() {",
+        	"		return (",
+            "			<div>${1:filename}</div>",
+        	"		)",
+    		"	}",
+			"}",
+			"",
+			"export default ${1:filename}",
+			""
+		],
+		"description": "React Component Template"
+	}
+}
