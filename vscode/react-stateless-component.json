@@ -6,7 +6,7 @@
 			"import React from 'react'",
 			"",
 			"const ${1:filename} = props => (",
-			"	<p>${1:filename}</p>",
+			"	<div>${1:filename}</div>",
 			")",
 			"",
 			"export default ${1:filename}",
